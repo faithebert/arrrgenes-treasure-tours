@@ -34,8 +34,6 @@ html {
 .nav a:hover span,
 .nav a:focus span {
   border-bottom-color: #fff;
-  outline-style: solid;
-  outline-color: #bea59b;
 }
 
 .banner {
