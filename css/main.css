@@ -34,6 +34,7 @@ html {
 .nav a:hover span,
 .nav a:focus span {
   border-bottom-color: #fff;
+  outline-color: #fff;
 }
 
 .banner {
@@ -62,7 +63,6 @@ html {
 .btn-banner {
   border-color: #bea59b;
   color: #fff;
-  outline-color: #bea59b;
 }
 
 .btn-banner:hover,
@@ -70,6 +70,7 @@ html {
   background-color: #bea59b;
   border-color: #fff;
   color: #522806;
+  outline-color: red;
 }
 
 .footer {
