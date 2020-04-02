@@ -25,6 +25,7 @@ html {
 .nav a {
   color: #fff;
   text-decoration: none;
+  outline-color: #fff;
 }
 
 .nav a span {
@@ -70,7 +71,7 @@ html {
   background-color: #bea59b;
   border-color: #fff;
   color: #522806;
-  outline-color: red;
+  outline-color: #fff;
 }
 
 .footer {
