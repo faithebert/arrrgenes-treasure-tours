@@ -29,7 +29,7 @@ html {
 
 .nav a span {
   border-bottom: .3rem solid #bea59b;
-  outline-color: #fff;
+  outline-style: none;
 }
 
 .nav a:hover span,
