@@ -29,12 +29,13 @@ html {
 
 .nav a span {
   border-bottom: .3rem solid #bea59b;
-  outline-style: none;
 }
 
 .nav a:hover span,
 .nav a:focus span {
   border-bottom-color: #fff;
+  outline-style: solid;
+  outline-color: #bea59b;
 }
 
 .banner {
